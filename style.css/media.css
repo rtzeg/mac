@@ -1,0 +1,178 @@
+@media only screen and (max-width:1043px){
+    .container{
+        width: 100%;
+    }
+    h1{
+        font-size: 45px;
+    }
+    .txt p{
+        width: 900px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .macbook img{
+        width: 250px;
+    }
+    .price-name h3{
+        font-size: 45px;
+    }
+    .price-name p{
+        font-size: 21px;
+    }
+    .price-sum p{
+        font-size: 45px;
+    }
+}
+@media only screen and (max-width:907px){
+    h1{
+        font-size: 42px;
+    }
+    .txt p{
+        width: 800px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .macbook img{
+        width: 200px;
+    }
+    .price-name h3{
+        font-size: 38px;
+    }
+    .price-name p{
+        font-size: 18px;
+        
+    }
+    .price-sum p{
+        font-size: 38px;
+        margin-top: 20px;
+    }
+    .btns button{
+        width: 145px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .big-btns button{
+        width: 302px;
+        height: 52px;
+        font-size: 16px;
+    }
+    .big-btns button span{
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:811px){
+    h1{
+        font-size: 40px;
+    }
+    .txt p{
+        width: 700px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+    
+    .price-name h3{
+        font-size: 20px;
+    }
+    .price-name p{
+        font-size: 16px;
+        
+    }
+    .price-sum p{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-top: -13px;
+    }
+    .btns button{
+        width: 140px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .big-btns button{
+        width: 292px;
+        height: 47px;
+        font-size: 14px;
+    }
+    .big-btns button span{
+        font-size: 12px;
+    }
+    .mac{
+        width: 230px;
+        display: block;
+        margin: 0 auto;
+    }
+    .price{
+        width: 200px;
+        display: flex;
+        align-items: center ;
+        justify-content: space-around;
+    }
+}
+@media only screen and (max-width:716px){
+    h1{
+        font-size: 35px;
+    }
+    .txt p{
+        width: 600px;
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width:609px){
+    h1{
+        font-size: 32px;
+    }
+    .txt p{
+        width: 500px;
+        margin-bottom: 40px;
+        font-size: 16px;
+    }
+    .btns button{
+        width: 135px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .big-btns button{
+        width: 282px;
+        height: 42px;
+        font-size: 14px;
+    }
+    .big-btns button span{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width:511px){
+    h1{
+        font-size: 32px;
+    }
+    .txt p{
+        width: 400px;
+        margin-bottom: 70px;
+        
+    }
+}
+@media only screen and (max-width:403px){
+    h1{
+        font-size: 24px;
+    }
+    .txt p{
+        width: 280px;
+        margin-bottom: 150px;
+        
+    }
+    .btns{
+        width: 260px;
+    }
+    .big-btns{
+        width: 260px;
+    }
+    .btns button{
+        width: 125px;
+        height: 30px;
+    }
+    .big-btns button{
+        width: 262px;
+        height: 38px;
+        font-size: 14px;
+    }
+}

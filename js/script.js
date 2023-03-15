@@ -7,12 +7,6 @@ let btn4 = document.querySelector('.btn4')
 let p = document.querySelector('.prices')
 let p2 = document.querySelector('.colors')
 
-
-
-
-
-
-
 let rem = (btn) => {
     btn.classList.remove('btn1')
 }
@@ -50,12 +44,9 @@ let img = document.querySelector('img')
 let src1 = "./img/mac.png"
 let src2 = "./img/macGrey.png"
 
-
-
 let rem2 = (btn) => {
     btn.classList.remove('btn-white')
 }
-
 
 grey_btn.onclick = () => {
     img.setAttribute("src", src1)

@@ -90,3 +90,10 @@ cros.addEventListener("click", modal2)
 
 
 
+window.addEventListener('keydown', (event) => {
+    if(event.keyCode === 27){
+        modal_window.classList.toggle('not_active')
+        body.style.overflow = 'auto'
+    }
+    
+})
